@@ -2,7 +2,7 @@
 
 This is a minimalist navbar created usign HTML and CSS
 
-![simple navbar](navbar.png)
+![simple navbar](/img/navbar.png)
 
-![hoover navbar](hoover.md)
+![hoover navbar](/img/hoover.png)
 
